@@ -1,2 +1,13 @@
 # sign-language-detection-using-ml
-This project is a machine learning-based Sign Language Detection System designed to identify alphabets from American Sign Language (ASL). The project consists of various Python scripts for different stages of the pipeline, including data collection, preprocessing, model training, and deploying a web-based application for real-time detection.
+Sign Language Detection for Recognizing American Sign Language (ASL) Using Machine Learning" bridges the communication gap between hearing and non-hearing individuals. This project uses computer vision and machine learning to identify ASL hand gestures and translate them into corresponding alphabets. By training on a dataset of ASL gestures, the model learns to recognize subtle differences in hand shapes, orientations, and movements.
+
+## Technologies Used
+
+Programming Language: Python
+Frameworks: Flask/Django for web application
+Libraries:
+TensorFlow/Keras: For deep learning
+OpenCV: For image processing
+NumPy & Pandas: For data manipulation
+Matplotlib & Seaborn: For data visualization
+
